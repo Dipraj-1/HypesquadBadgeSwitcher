@@ -31,8 +31,7 @@ Use the `/hypesquad` command to quickly change your house:
 
 1. **Download the plugin**
    - Download `index.tsx` from this repository
-   - Or download `index-with-settings.tsx` if you want the settings panel version
-
+     
 2. **Locate your Vencord userplugins folder**
    - **Windows:** `%appdata%/Vencord/userplugins/`
    - **macOS:** `~/Library/Application Support/Vencord/userplugins/`
@@ -66,9 +65,7 @@ Type `/hypesquad` in any Discord text channel or DM, then select your desired ho
 | `2` | House Brilliance |
 | `3` | House Balance |
 
-### Using Settings Panel (Settings Version Only)
-
-If you're using `index-with-settings.tsx`:
+### Using Settings Panel 
 
 1. Go to **User Settings** → **Vencord** → **Plugins**
 2. Find **HypeSquadSwitcher** in the list

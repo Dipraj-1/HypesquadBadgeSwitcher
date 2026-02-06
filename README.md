@@ -1,6 +1,6 @@
 # HypeSquad Switcher
 
-A Vencord plugin that allows you to easily switch between Discord HypeSquad houses or remove your badge entirely.
+A Vencord plugin that allows you to easily switch between Discord HypeSquad houses or remove your badge entirely.(Those who dont have hypesquad badge can get that)
 
 ## ✨ Features
 

@@ -1,7 +1,7 @@
 # HypeSquad Switcher[Badge Claimer]
 
 A Vencord plugin that allows you to easily switch between Discord HypeSquad houses. Add or remove your badge entirely.(Those who dont have hypesquad badge can get that)
-
+I don't know if this make your account limited
 ## ✨ Features
 
 - 🏠 Switch between all three HypeSquad houses (Bravery, Brilliance, Balance)

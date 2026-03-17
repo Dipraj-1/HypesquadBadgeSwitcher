@@ -25,7 +25,7 @@ Use the `/hypesquad` command to quickly change your house:
 
 ### Prerequisites
 
-- [Vencord](https://vencord.dev/) installed and working
+- [Vencord](https://vencord.dev/) installed and working.
 
 ### Steps
 
